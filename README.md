@@ -3,12 +3,12 @@ CRUD with formik yup redux
 
 ## Installation
 
-In the project directory, you can run for installing necessary dependencies:
+In the project directory, use this command to install necessary dependencies:
 
-### `yarn` or `npm i`
+#### `yarn` or `npm i`
 
-## Project Starting
+## Starting a Project
 
-In the project directory, you can run:
+In the project directory, use this command to run:
 
-### `yarn start` or `npm start`
+#### `yarn start` or `npm start`

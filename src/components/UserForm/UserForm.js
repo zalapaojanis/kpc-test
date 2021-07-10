@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useMemo } from 'react';
-import uuidv4 from 'uuid/v4';
+import { v4 as uuidv4 } from 'uuid';
 import styled, { css } from 'styled-components';
 import { connect } from "react-redux";
 import Select from 'react-select';

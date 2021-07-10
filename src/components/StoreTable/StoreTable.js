@@ -51,8 +51,6 @@ const StyledButton = styled.button`
   }
 `;
 
-
-
 const StoreTable = ({ users }) => {
   const [selected, setSelected] = useState([]);
   const dispatch = useDispatch();
